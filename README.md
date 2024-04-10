@@ -16,6 +16,3 @@ cifre decimali e le lettere dalla a alla f.</h4>
 </ul></div>
 </foreignObject>
 </svg>
-
-
-
