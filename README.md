@@ -13,9 +13,7 @@ Avendo a disposizione 4 bit d'ingresso, i numeri che si possono rappresentare va
 mentre in uscita, avendo 8 bit a disposizione, risultano fino a 225. Sia in uscita che in entrata i 
 numeri sono rappresentati in base esadecimale, quindi fanno uso di 16 simboli che sono le dieci 
 cifre decimali e le lettere dalla a alla f.</h4>
-
-        </ul>
-    </div>
+</ul></div>
 </foreignObject>
 </svg>
 
